@@ -31,7 +31,8 @@ TWEAKS = {
   "File-IQ7O6": {},
   "Google Generative AI Embeddings-Ammm6": {},
   "Google Generative AI Embeddings-lVDK5": {},
-  "GoogleGenerativeAIModel-muC2d": {}
+  "GoogleGenerativeAIModel-muC2d": {},
+  "AstraDBChatMemory-DoWge": {}
 }
 
 def run_flow(message: str,
